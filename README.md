@@ -29,6 +29,22 @@ The project demonstrates hands-on experience with **Excel, Power Query, Pivot Ta
 
 ## Key Findings
 
+General Overview :
+
+<img width="1231" height="716" alt="Screenshot 2026-09-08 at 4 27 58 PM" src="https://github.com/user-attachments/assets/f117caab-aed5-4b58-98f8-27e82683eba7" />
+
+Pre-pandemic Overview : 
+
+<img width="1230" height="715" alt="Screenshot 2026-09-08 at 4 28 25 PM" src="https://github.com/user-attachments/assets/791794c2-4fe3-4f83-b334-d8af45a4966c" />
+
+Pandemic Overview :
+
+<img width="1229" height="716" alt="Screenshot 2026-09-08 at 4 28 08 PM" src="https://github.com/user-attachments/assets/ea671c2c-9cf5-49a8-bc91-63daa4805f31" />
+
+Post-Pandemic Overview :
+
+<img width="1232" height="716" alt="Screenshot 2026-09-08 at 4 28 11 PM" src="https://github.com/user-attachments/assets/bc17c694-fecb-4598-88b0-53ce46aa68ae" />
+
 ### 1. Impact of COVID-19
 
 The COVID-19 pandemic caused a significant disruption to the Philippine labor market in 2020.
@@ -225,7 +241,9 @@ This calculates the difference between the average female and male unemployment 
 
 ## Pivot Table Analysis
 
-A Pivot Table was created for the **Recovery Index** analysis.
+Pivot Tables were created for the **Recovery Index** analysis.
+
+<img width="1318" height="674" alt="Screenshot 2026-09-08 at 4 28 52 PM" src="https://github.com/user-attachments/assets/7c59361a-0f1d-4250-b8ed-2cbf0b9899f9" />
 
 ### Configuration
 
